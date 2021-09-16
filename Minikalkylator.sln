@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minikalkylator", "Minikalkylator\Minikalkylator.csproj", "{42714D17-AF47-48FC-8728-A7E2235D40C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42714D17-AF47-48FC-8728-A7E2235D40C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42714D17-AF47-48FC-8728-A7E2235D40C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42714D17-AF47-48FC-8728-A7E2235D40C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42714D17-AF47-48FC-8728-A7E2235D40C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC5D27D-C40C-4228-BA88-2937A532A8CA}
+	EndGlobalSection
+EndGlobal
